@@ -5,6 +5,7 @@ import java.util.Objects;
 
 public abstract class AbstractEntity {
 
+
     private int id;
 
     private String name;
